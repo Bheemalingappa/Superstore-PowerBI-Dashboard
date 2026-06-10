@@ -77,12 +77,6 @@ This project presents an interactive Business Intelligence dashboard built using
 
 ---
 
-## 📸 Dashboard Preview
-
-![Power BI Dashboard](dashboard_screenshot.png)
-
----
-
 ## 📁 Repository Structure
 
 ```text
